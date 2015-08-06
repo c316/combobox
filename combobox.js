@@ -13,6 +13,7 @@
             options: {
                 buttonText: 'Go',
                 isOpen: true,
+                textBoxText: 'Hello',
 
                 // callbacks
                 change: null
@@ -77,7 +78,7 @@
                     combobox = '';
 
                 combobox += '<div class="combobox">\n';
-                combobox += '\t<input type="text" value="Hello" class="txtbox" id="campaignDropdown">\n';
+                combobox += '\t<input type="text" value="' + this.options.textBoxText + '" class="txtbox" id="campaignDropdown">\n';
                 combobox += '\t<a href="#" class="txtbox-btn">' + opts.buttonText + '</a>\n';
                 combobox += '</div>\n';
                 combobox += '<ul class="combobox-options">\n';
