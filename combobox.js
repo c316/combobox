@@ -13,7 +13,7 @@ $(function() {
         options: {
             buttonText: 'Go',
             isOpen: true,
-            textBoxText: 'Hello',
+            textBoxText: 'Type Here',
             showText: false,
             useIcon: false,
 
