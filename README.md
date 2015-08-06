@@ -9,9 +9,13 @@ First things first, this whole project is based off of a YouTube video by Design
 
 #TLDR
 
-Combobox does this
+Combobox takes this
 
-![Alt text](/screenshot.jpg?raw=true "Screenshot")
+![Alt text](/select-screenshot.jpg?raw=true "select screenshot")
+
+And makes this
+
+![Alt text](/combobox-screenshot.jpg?raw=true "combobox screenshot")
 
 select -> ul w/textbox & autocomplete
 
