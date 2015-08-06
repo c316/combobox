@@ -4,12 +4,14 @@
 First things first, this whole project is based off of a YouTube video by Designmodo (http://designmodo.com/),
 
    Part1: https://www.youtube.com/watch?v=tyLlKwBrivQ
-   
+
    Part2: https://www.youtube.com/watch?v=F1eIZMkgeAU
 
 #TLDR
 
 Combobox does this
+
+![Alt text](/Screenshot.jpg?raw=true "Screenshot")
 
 select -> ul w/textbox & autocomplete
 
