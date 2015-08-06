@@ -11,7 +11,7 @@ First things first, this whole project is based off of a YouTube video by Design
 
 Combobox does this
 
-![Alt text](/Screenshot.jpg?raw=true "Screenshot")
+![Alt text](/screenshot.jpg?raw=true "Screenshot")
 
 select -> ul w/textbox & autocomplete
 
