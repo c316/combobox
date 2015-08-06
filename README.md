@@ -4,6 +4,7 @@
 First things first, this whole project is based off of a YouTube video by Designmodo (http://designmodo.com/),
 
    Part1: https://www.youtube.com/watch?v=tyLlKwBrivQ
+   
    Part2: https://www.youtube.com/watch?v=F1eIZMkgeAU
 
 #TLDR
@@ -14,7 +15,7 @@ select -> ul w/textbox & autocomplete
 
 after you do this
 
-$('#mySelectElement').combobox();
+    $('#mySelectElement').combobox();
 
 #What does it do?
 
