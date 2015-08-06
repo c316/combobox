@@ -43,3 +43,10 @@ Want to show the text of the element in the textbox and not the value?
 Pass in {showText: true} like this
 
 $('#mySelectElement').combobox({showText: true});
+
+Want to use an icon instead of text for the button?
+Pass in {useIcon: '<i class="fa fa-bars"></i>'} like this
+
+$('#mySelectElement').combobox({useIcon: '<i class="fa fa-bars"></i>'});
+^^^^^^^ Make sure you can render that font. in this example you'd need
+FontAwesome (FontAwesome.com) for this font to actually show up
