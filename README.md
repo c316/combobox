@@ -17,8 +17,6 @@ And makes this
 
 ![Alt text](/combobox-screenshot.jpg?raw=true "combobox screenshot")
 
-select -> ul w/textbox & autocomplete
-
 after you do this
 
     $('#mySelectElement').combobox();
